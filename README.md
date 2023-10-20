@@ -28,6 +28,4 @@ At the conclusion of this project, we anticipate providing the following deliver
 ## Impact
 This project aims to empower Airbnb hosts to improve their listings and assist guests in making informed choices. Hosts can increase bookings, and guests can find suitable accommodations at competitive rates.
 
-## Dataset 
-<a href='https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset/' styles="color:white;">[Airbnb Listings 2016 Dataset]</a><br>
 
